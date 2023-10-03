@@ -38,7 +38,9 @@ Release Planning and Estimations
 
 Ref: 
 
-ER Diagram
+[ER Diagram](https://erdplus.com/login)
+> login with 
+> quickroutes@gmail.com 
 
 ![ERD](./erd.png)
 
