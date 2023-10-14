@@ -35,7 +35,10 @@ Ref:
 
 [ER Diagram](https://erdplus.com/login)
 > login with 
-> quickroutes@gmail.com 
+> quickroutes@gmail.com
+
+AWS account email: raj.maharana.94@gmail.com
+
 
 ![ERD](./erd.png)
 
