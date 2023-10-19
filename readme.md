@@ -12,9 +12,8 @@ Gyvor 0.1
 
 *Backend* 
 
-- DB - Firebase
-- Auth - Firebase authentication
-- Serverless - Google Cloud functions with NodeJS
+- DB - DynamoDB
+- Serverless - AWS [NodeJS/Java]
 
 Release Planning and Estimations
 
