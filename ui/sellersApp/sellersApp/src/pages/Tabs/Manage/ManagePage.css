@@ -1,0 +1,27 @@
+.managePage-wrapper, .managePage-modal-wrapper  {
+	background: white;
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	overflow: auto;
+}
+
+.managePage-modal-wrapper {
+	padding: 70px 20px 0 20px;
+}
+
+.ion-items-wrapper {
+	background:red;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+}
+
+.addBtn {
+	position: fixed;
+	bottom: 3vw;
+	right: 3vw;
+}

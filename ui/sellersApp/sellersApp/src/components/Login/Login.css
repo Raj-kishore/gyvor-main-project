@@ -1,0 +1,45 @@
+#open-modal{
+    position: fixed;
+    left: 2vw;
+    bottom: 2vw;
+    right: 2vw;
+}
+
+
+ion-content::part(background) {
+    background: url("../assets/bg.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+    filter: blur(2px);
+  }
+  
+  ion-content::part(scroll) {
+    color: #fff;
+  }
+
+  .logo-wrapper{
+    padding: 5vw;
+    background: #000000e0;
+    border-radius: 10vw 0 0 0;
+    width:96vw;
+  }
+
+
+  .logo{
+    font-size: 10vw;
+  }
+  .slogan{
+    border-top: solid thin;
+    padding-top: 3vw;
+    padding-left: 3vw;
+    padding-bottom: 3vw;
+    font-size: 5vw;
+  }
+  .short-about{
+    font-size: 3vw;
+    padding-left: 3vw;
+  }
+

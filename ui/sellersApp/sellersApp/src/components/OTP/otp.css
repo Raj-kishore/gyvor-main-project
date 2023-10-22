@@ -1,0 +1,13 @@
+
+.card{
+    text-align:center;
+}
+.card  input {
+    width:40px!important;
+    height:40px;
+    border-radius:10px
+}
+
+.card > form > div > div:nth-child(1){
+    justify-content: center;
+}
